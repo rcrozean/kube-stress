@@ -32,8 +32,8 @@ import (
 	"k8s.io/client-go/kubernetes/scheme"
 	"k8s.io/klog/v2"
 
-	"github.com/shyamjvs/kube-stress/pkg/client"
-	"github.com/shyamjvs/kube-stress/pkg/util"
+	"github.com/rcrozean/kube-stress/pkg/client"
+	"github.com/rcrozean/kube-stress/pkg/util"
 )
 
 type ListConfig struct {

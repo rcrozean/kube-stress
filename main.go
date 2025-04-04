@@ -14,7 +14,7 @@
 
 package main
 
-import "github.com/shyamjvs/kube-stress/cmd"
+import "github.com/rcrozean/kube-stress/cmd"
 
 func main() {
 	cmd.Execute()

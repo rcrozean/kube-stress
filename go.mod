@@ -1,6 +1,6 @@
-module github.com/shyamjvs/kube-stress
+module github.com/rcrozean/kube-stress
 
-go 1.18
+go 1.24.2
 
 require (
 	github.com/google/uuid v1.1.2
